@@ -1,0 +1,15 @@
+{
+  "name": "go-wifi-api",
+  "version": "0.1.0",
+  "description": "Go wifi Gcash buy load feature api for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arees Siapno <areessiapno@gmail.com> (https://github.com/areessiapno)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/areessiapno/go-wifi-api.git"
+  }
+}
